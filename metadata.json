@@ -1,0 +1,6 @@
+{
+  "name": "Synthetix Marketing & AI Journal",
+  "description": "An authoritative editorial publication exploring Generative Engine Optimization, autonomous agent orchestration, predictive lifetime value, and modern digital marketing strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
